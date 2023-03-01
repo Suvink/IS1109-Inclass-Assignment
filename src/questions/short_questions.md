@@ -1,6 +1,6 @@
 ## Q1: What is a component? Explain briefly in about 5 sentences.
 
-Type your answer here...
+
 
 
 
@@ -12,7 +12,7 @@ Type your answer here...
 
 ## Q2: What is the CSS Box model? 
 
-Type your answer here...
+Box model is about the design and the layout. The CSS box model is a box that wraps around every HTML element. It has: borders, margins, padding, and the content. 
 
 
 
@@ -20,14 +20,14 @@ Type your answer here...
 
 ## Q3: There are 3 types of web applications. Static Web Applications, Dynamic Web Applications and Single Page applications. Explain each of them briefly.
 
-Static Web Applications:
+Static Web Applications: Static web pages are the webpages which has only static elements.
 
 
 
 
-Dynamic Web Applications:
+Dynamic Web Applications: Dynamic webpages are the opposite of static webpages. It consists of moving elements such as hovers. We can use JS, CSS to make these kind of webpages.
 
 
 
 
-Single Page applications
+Single Page applications: Single page web applications are the websites that contains only one web page.
