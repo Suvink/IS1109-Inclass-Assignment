@@ -20,12 +20,12 @@ Box model is about the design and the layout. The CSS box model is a box that wr
 
 ## Q3: There are 3 types of web applications. Static Web Applications, Dynamic Web Applications and Single Page applications. Explain each of them briefly.
 
-Static Web Applications: Static web pages are the webpages which has only static elements.
+Static Web Applications: Static webpages mean the websites which the server side rendering is not required. These webapps consists of HTML,CSS,JS. And those are built frameworks and libraries such as React , Vue, Angular.
 
 
 
 
-Dynamic Web Applications: Dynamic webpages are the opposite of static webpages. It consists of moving elements such as hovers. We can use JS, CSS to make these kind of webpages.
+Dynamic Web Applications: Dynamic webpages are the opposite of static webpages. We can use JS, CSS to make these kind of webpages.
 
 
 
