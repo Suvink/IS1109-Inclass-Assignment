@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/945b964b-9673-4d0b-892c-3bba7720758f/deploy-status)](https://app.netlify.com/sites/dulcet-peony-88ca28/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
